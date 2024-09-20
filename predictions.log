@@ -157,3 +157,4 @@
 2024-09-20 05:28:56,118 - DEBUG - STREAM b'IDAT' 41 8192
 2024-09-20 05:28:56,118 - DEBUG - STREAM b'IHDR' 16 13
 2024-09-20 05:28:56,118 - DEBUG - STREAM b'IDAT' 41 8192
+2024-09-20 05:35:20,750 - DEBUG - in-event <InotifyEvent: src_path=b'/app/app/models', wd=1, mask=IN_IGNORED, cookie=0, name=''>
