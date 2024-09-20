@@ -41,9 +41,7 @@ st.markdown("""
          }
          </style>
          """, unsafe_allow_html=True)
-col01, col02,col03 = st.columns(3)
-with col02:
-    st.image("app/various_files/image.png", width= 400)
+st.image("app/various_files/image.png", width= 400)
 
 st.title("Clasificación de orden tomada/no tomada RAPPI")
 
