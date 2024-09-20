@@ -42,7 +42,7 @@ st.markdown("""
          </style>
          """, unsafe_allow_html=True)
 st.markdown(
-    f'<div style="text-align: center;"><img src="{app/various_files/image.png}" style="max-width: 40%; height: auto;"></div>',
+    f'<div style="text-align: center;"><img src="app/various_files/image.png" style="max-width: 40%; height: auto;"></div>',
     unsafe_allow_html=True
 )
 st.title("Clasificación de orden tomada/no tomada RAPPI")
